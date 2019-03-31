@@ -7,7 +7,6 @@ package com.example.archan.saveforest;
 public class contraints {
     public static final String MQTT_BROKER_URL = "tcp://broker.hivemq.com:1883";
 
-    public static final String PUBLISH_TOPIC = "androidkt/topic";
 
     public static final String CLIENT_ID = "androidkt";
 
